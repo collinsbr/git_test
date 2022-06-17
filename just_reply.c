@@ -8,9 +8,6 @@
 
 int main()
 {
-  printf("Hello, world\n");
-  printf("Hello, again!\n");
-
   // reply to hello world
   printf("Well hello there.\n");
   return 0;
