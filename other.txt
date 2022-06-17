@@ -1,0 +1,1 @@
+This is a text file added to give me another file to stage so I can test how git works.
