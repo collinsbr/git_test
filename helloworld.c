@@ -10,5 +10,7 @@ int main()
 {
   printf("Hello, world\n");
   printf("Hello, again!\n");
+
+  printf("We added another line\n");
   return 0;
 }
