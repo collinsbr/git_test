@@ -17,6 +17,9 @@ int main()
 
   // add another line - this was added in master
   printf("We added another line\n");
+
+   // add a line locally and push to github
+   printf("This line was added locally.\n");
   
   return 0;
 }
