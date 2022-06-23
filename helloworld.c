@@ -19,7 +19,7 @@ int main()
   printf("We added another line\n");
 
    // add a line locally and push to github
-   printf("This line was added locally.\n");
+   printf("Added locally this line was. Also different than original local line add.\n");
   
   return 0;
 }
