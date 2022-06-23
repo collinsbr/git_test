@@ -18,8 +18,11 @@ int main()
   // add another line - this was added in master
   printf("We added another line\n");
 
-   // add a line locally and push to github
-   printf("Added locally this line was. Also different than original local line add.\n");
+  // add a line locally and push to github
+  printf("Added locally this line was. Also different than original local line add.\n");
+  
+  // add a line on GitHub to create conflict with local
+  printf("This line was added with GH text editor.\n");
   
   return 0;
 }
