@@ -23,6 +23,9 @@ int main()
   
   // add a line on GitHub to create conflict with local
   printf("This line was added with GH text editor.\n");
+   
+  // add a line locally that conflicts with a remote added line
+  printf("this line was added locally to conflict w a line added remotely.\n");
   
   return 0;
 }
