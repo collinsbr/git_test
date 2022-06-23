@@ -17,15 +17,16 @@ int main()
 
   // add another line - this was added in master
   printf("We added another line\n");
-
-  // add a line locally and push to github
-  printf("Added locally this line was. Also different than original local line add.\n");
-  
-  // add a line on GitHub to create conflict with local
-  printf("This line was added with GH text editor.\n");
    
   // add a line locally that conflicts with a remote added line
   printf("this line was added locally to conflict w a line added remotely.\n");
+  
+  // count to five
+  for (int i=0; i<5; i++)
+  {
+    printf("%d ", i);
+  }
+  printf("\n");
   
   return 0;
 }
